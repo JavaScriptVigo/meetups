@@ -9,6 +9,6 @@ Documeto para ir proponiendo temas y asignando ponentes. Si te interesa presenta
 | React Native  |      |     |
 | Carto, Mapbox  |    |    |
 | RxJS  |        |           |
-|   |        |           |
+| vue.js |        |           |
 |  |        |           |
 |   |        |           |
