@@ -10,5 +10,5 @@ Documeto para ir proponiendo temas y asignando ponentes. Si te interesa presenta
 | Carto, Mapbox  |    |    |
 | RxJS  |        |           |
 | vue.js |        |           |
-|  |        |           |
+| Elm   |        |           |
 |   |        |           |
