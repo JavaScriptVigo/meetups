@@ -6,7 +6,7 @@ Documento para ir organizando los próximos Meetups de JSVigo. Fork & PR para in
 ## Meetup #1
 ### Temas:
 
-1. Webpack2 - *(Pendiente de Confirmar)*
+1. **Pendiente**
 2. **Pendiente**
 
 ### Fecha:
@@ -18,11 +18,23 @@ Documento para ir organizando los próximos Meetups de JSVigo. Fork & PR para in
 ## Meetup #2
 ### Temas:
 
-1. Carto.js, Mapas y JS *(Pendiente de ponente)*
+1. Webpack2 - *(Pendiente de Confirmar)*
 2. **Pendiente**
 
 ### Fecha:
 *20/04/2017*
+
+### Lugar:
+**Pendiente**
+
+## Meetup #3
+### Temas:
+
+1. **Pendiente**
+2. **Pendiente**
+
+### Fecha:
+*25/05/2017*
 
 ### Lugar:
 **Pendiente**
