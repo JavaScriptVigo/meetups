@@ -22,7 +22,7 @@ Documento para ir organizando los próximos Meetups de JSVigo. Fork & PR para in
 2. **Pendiente**
 
 ### Fecha:
-*20/04/2017*
+*27/04/2017*
 
 ### Lugar:
 **Pendiente**
