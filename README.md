@@ -6,11 +6,11 @@ Documento para ir organizando los próximos Meetups de JSVigo. Fork & PR para in
 ## Meetup #1
 ### Temas:
 
-1. **Pendiente**
+1. Web Components - (Pendiente de confirmar)
 2. **Pendiente**
 
 ### Fecha:
-*23/03/2017*
+*30/03/2017*
 
 ### Lugar:
 **Pendiente**
@@ -18,7 +18,7 @@ Documento para ir organizando los próximos Meetups de JSVigo. Fork & PR para in
 ## Meetup #2
 ### Temas:
 
-1. Webpack2 - *(Pendiente de Confirmar)*
+1. Webpack2 - [Orestes Carracedo](https://twitter.com/orestesca)
 2. **Pendiente**
 
 ### Fecha:
