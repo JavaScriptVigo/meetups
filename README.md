@@ -13,7 +13,7 @@ Documento para ir organizando los próximos Meetups de JSVigo. Fork & PR para in
 *30/03/2017*
 
 ### Lugar:
-**Pendiente**
+[Kaleido Coworking](http://www.kaleidocoworking.com/)
 
 ## Meetup #2
 ### Temas:
@@ -26,16 +26,16 @@ Documento para ir organizando los próximos Meetups de JSVigo. Fork & PR para in
 *27/04/2017*
 
 ### Lugar:
-**Pendiente**
+[Kaleido Coworking](http://www.kaleidocoworking.com/)
 
 ## Meetup #3
 ### Temas:
 
-1. **Pendiente**
+1. React - (Pendiente)
 2. **Pendiente**
 
 ### Fecha:
 *25/05/2017*
 
 ### Lugar:
-**Pendiente**
+[Kaleido Coworking](http://www.kaleidocoworking.com/)
