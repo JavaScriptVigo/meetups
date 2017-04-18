@@ -19,14 +19,14 @@ La idea es hacer una breve introduccion a los Web Components y a los Custom Elem
 ## Meetup #2
 ### Temas:
 
-1. Webpack2 - [Orestes Carracedo](https://twitter.com/orestesca)
+1. Webpack2 - [Ivan Nieto](https://twitter.com/IvanNietoS)
 
-Sesión livecoding de intro a Webpack 2. Automatizaremos paso a todas las tareas de build de un proyecto web moderno con ES6. Si tienes ganas de aprender Webpack pero el millón de opciones y plugins te parece intimidante, en esta sesión encontrarás un workflow efectivo para desarrollar y distribuir aplicaciones web modernas.
+Introduccion a Webpack2, historia, ventajas, desventajas y casos de uso practicos. Estudiaremos un caso de uso básico para comprender como trabaja Webpack2 y como se configura. Si el tiempo lo permite, veremos tambien un caso de uso real, migrando una configuración de Gulp a Webpack2.
   
 2. **Pendiente**
 
 ### Fecha:
-*27/04/2017*
+*03/05/2017*
 
 ### Lugar:
 [Kaleido Coworking](http://www.kaleidocoworking.com/)
