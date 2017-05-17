@@ -54,3 +54,27 @@ Los topics que abordaremos durante el live coding serán:
 
 ### Lugar:
 [Kaleido Coworking](http://www.kaleidocoworking.com/)
+
+## Meetup #4
+### Temas:
+
+1. Introducción a Firebase3- [Hugo Estévez](https://twitter.com/Hugoer85)
+
+El meetup será una introducción a las posibilidades que nos ofrece Firebase3. Haremos un pequeño recorrido por cada una de sus características haciendo hincapié en su punto fuerte: base de datos en tiempo real. 
+
+Los puntos a seguir serán:
+
+* ¿Qué es Firebase?
+* Primeros pasos (Crear una aplicación y configurarla a un nivel básico para comenzar a trabajar de manera básica)
+* Operaciones básicas (Escritura, lectura, eventos...)
+* Almacenamiento de imágenes/vídeos/audio
+* Permisos
+* Indices
+* Cloud functions
+
+### Fecha:
+*07/07/2017*
+
+### Lugar:
+[Kaleido Coworking](http://www.kaleidocoworking.com/)
+
