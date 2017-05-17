@@ -73,7 +73,7 @@ Los puntos a seguir serán:
 * Cloud functions
 
 ### Fecha:
-*07/07/2017*
+*14/06/2017*
 
 ### Lugar:
 [Kaleido Coworking](http://www.kaleidocoworking.com/)
