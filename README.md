@@ -22,7 +22,7 @@ La idea es hacer una breve introduccion a los Web Components y a los Custom Elem
 1. Webpack2 - [Ivan Nieto](https://twitter.com/IvanNietoS)
 
 Introduccion a Webpack2, historia, ventajas, desventajas y casos de uso practicos. Estudiaremos un caso de uso básico para comprender como trabaja Webpack2 y como se configura. Si el tiempo lo permite, veremos tambien un caso de uso real, migrando una configuración de Gulp a Webpack2.
-  
+
 2. **Pendiente**
 
 ### Fecha:
@@ -60,7 +60,7 @@ Los topics que abordaremos durante el live coding serán:
 
 1. Introducción a Firebase3- [Hugo Estévez](https://twitter.com/Hugoer85)
 
-El meetup será una introducción a las posibilidades que nos ofrece Firebase3. Haremos un pequeño recorrido por cada una de sus características haciendo hincapié en su punto fuerte: base de datos en tiempo real. 
+El meetup será una introducción a las posibilidades que nos ofrece Firebase3. Haremos un pequeño recorrido por cada una de sus características haciendo hincapié en su punto fuerte: base de datos en tiempo real.
 
 Los puntos a seguir serán:
 
@@ -78,3 +78,20 @@ Los puntos a seguir serán:
 ### Lugar:
 [Kaleido Coworking](http://www.kaleidocoworking.com/)
 
+
+## Meetup #5
+### Temas:
+
+1. Programación reactiva con Angular- [Jorge Cano](https://twitter.com/jorgeucano)
+
+Jorge es programador especializado en Angular y NativeScript. Google Developer Expert, organizador de [@ngbaires](https://twitter.com/ngbaires), [@ngconf](https://twitter.com/ngconf) y principal engineer en [@HeroDevs](https://twitter.com/herodevs).
+
+*FALTA DESCRIPCIÓN - PENDIENTE DE JORGE*
+
+### Fecha:
+*21/05/2019 19:30*
+
+### Lugar:
+[Casa Galega da Cultura](http://hoxe.vigo.org/movemonos/m_galega.php?lang=cas#/)
+
+Mapa: https://bit.ly/2GSLPtb
