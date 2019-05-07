@@ -84,9 +84,7 @@ Los puntos a seguir serán:
 
 1. Programación reactiva con Angular- [Jorge Cano](https://twitter.com/jorgeucano)
 
-Jorge es programador especializado en Angular y NativeScript. Google Developer Expert, organizador de [@ngbaires](https://twitter.com/ngbaires), [@ngconf](https://twitter.com/ngconf) y principal engineer en [@HeroDevs](https://twitter.com/herodevs).
-
-*FALTA DESCRIPCIÓN - PENDIENTE DE JORGE*
+Después de más de 10 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en día Jorge trabaja como “principal engineer” en HeroDevs utilizando Angular / RxJS / NodeJS / Firebase y otras tecnologías de punta… Profesor de varios cursos relacionados a javascript, Google Developer Expert en tecnologías web , Angular Developer Expert y NativeScript Developer Expert, speaker internacional, escritor de artículos técnicos y un libro sobre Angular
 
 ### Fecha:
 *21/05/2019 19:30*
