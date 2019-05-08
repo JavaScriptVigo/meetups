@@ -84,7 +84,21 @@ Los puntos a seguir serán:
 
 1. Programación reactiva con Angular- [Jorge Cano](https://twitter.com/jorgeucano)
 
-Después de más de 10 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en día Jorge trabaja como “principal engineer” en HeroDevs utilizando Angular / RxJS / NodeJS / Firebase y otras tecnologías de punta… Profesor de varios cursos relacionados a javascript, Google Developer Expert en tecnologías web , Angular Developer Expert y NativeScript Developer Expert, speaker internacional, escritor de artículos técnicos y un libro sobre Angular
+Volvemos a la carga con un streaming de lujo!
+
+Después de más de 10 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en día Jorge trabaja como “principal engineer” en HeroDevs utilizando Angular / RxJS / NodeJS / Firebase y otras tecnologías de punta… Profesor de varios cursos relacionados a javascript, Google Developer Expert en tecnologías web , Angular Developer Expert y NativeScript Developer Expert, speaker internacional, escritor de artículos técnicos y un libro sobre Angular.
+
+En esta ocasión, y recién llegado de ng-conf tendremos un ponente de lujo que nos contará los beneficios de la programación reactiva en Angular.
+
+Cuando tengas que programar con angular, hazlo de forma reactiva.... entendido señor reactive?
+
+AGENDA
+
+19:30: Buenos días Mr Reactive!
+
+21:00: Networking
+
+Cualquier duda, nos puedes encontrar dándolo todo en el Slack de VigoTechAlliance https://slackin-vigotech.herokuapp.com/ (canal #jsvigo)
 
 ### Fecha:
 *21/05/2019 19:30*
